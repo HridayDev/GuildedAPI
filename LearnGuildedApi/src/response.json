@@ -1,0 +1,22 @@
+{
+	"messages": [
+		{
+			"id": "010cfa93-73a9-4ccb-ba63-ec5a490f3b99",
+			"type": "default",
+			"serverId": "NEadg35l",
+			"channelId": "b7bed61d-e74a-43f8-825e-8d785d81227f",
+			"content": "Nice work PROMAN8625, you've created this server! I can already tell you're destined for greatness.",
+			"createdAt": "2023-01-05T15:11:34.080Z",
+			"createdBy": "Ann6LewA"
+		},
+		{
+			"id": "2fa563d3-46bc-4985-b57b-5331981e5818",
+			"type": "system",
+			"serverId": "NEadg35l",
+			"channelId": "b7bed61d-e74a-43f8-825e-8d785d81227f",
+			"content": "",
+			"createdAt": "2023-01-05T15:11:34.050Z",
+			"createdBy": "Ann6LewA"
+		}
+	]
+}
